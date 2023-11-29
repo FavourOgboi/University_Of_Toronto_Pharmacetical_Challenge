@@ -1,6 +1,6 @@
-# Pymaceuticals Inc.: Comprehensive Data Analysis Report
+# Pymaceuticals Inc.: Analysis Report
 
-## Table of Contents
+## 2. Table of Contents
 1. [Title](#title)
 2. [Table of Contents](#table-of-contents)
 3. [Project Overview](#project-overview)
