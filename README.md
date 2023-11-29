@@ -1,5 +1,5 @@
 # Pymaceuticals Inc.: Analysis Report
-![Pymaceuticals Logo](./University_Of_TorontoCananda_Pharmacetical_Challenge/Pymaceuticals/images/top-pharmaceutical-companies-in-baddi.png)
+![Pymaceuticals Logo](Pymaceuticals/images/top-pharmaceutical-companies-in-baddi.png)
 
 ## 2. Table of Contents
 1. [Title](#title)
